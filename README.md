@@ -4,8 +4,7 @@
 
 ## Example
 
-<video src="https://github.com/stm32-hotspot/STM32WB-BLE-Motor-Control-SDK/blob/main/Utilities/Media/MCSDK-demo.mp4" controls="controls" style="max-width: 720px;">
-</video>
+<img src="Utilities/Media/Thumbnail.png" width="30%"/>
 
 This Hotspot FW package includes:
    * A firmware application example called STM32WB-BLE-Motor-Control-SDK (*Motor Control Software Development Kit*).     
