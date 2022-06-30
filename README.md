@@ -4,7 +4,7 @@
 
 ## Example
 
-<video src="Utilities/Media/MCSDK-demo.mp4" controls="controls" style="max-width: 720px;">
+<video src="https://github.com/stm32-hotspot/STM32WB-BLE-Motor-Control-SDK/blob/main/Utilities/Media/MCSDK-demo.mp4" controls="controls" style="max-width: 720px;">
 </video>
 
 This Hotspot FW package includes:
